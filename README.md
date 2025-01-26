@@ -1,6 +1,6 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +11,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/time-tracking-dashboard-ihMsXMbEuN)
+- Live Site URL: [live site URL](https://abdulrrahmann.github.io/time-tracking-dashboard/)
 
 ## My process
 
@@ -45,5 +44,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@abdulrrahmann](https://www.frontendmentor.io/profile/abdulrrahmann)
-
-
